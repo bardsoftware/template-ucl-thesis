@@ -2,7 +2,7 @@
 
 **by Rob Stanley** robert.stanley.10@ucl.ac.uk
 
-A PhD thesis class for \LaTeX\ that attempts to follow the [UCL thesis requirements](https://www.ucl.ac.uk/current-students/research_degrees/thesis_formatting) based on the [LaTeX memoir class](https://www.ctan.org/pkg/memoir?lang=en).
+A PhD thesis class for LaTeX that attempts to follow the [UCL thesis requirements](https://www.ucl.ac.uk/current-students/research_degrees/thesis_formatting) based on the [LaTeX memoir class](https://www.ctan.org/pkg/memoir?lang=en).
 
 **This package is not supported by UCL.**
 
