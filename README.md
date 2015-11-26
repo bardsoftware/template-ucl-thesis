@@ -1,21 +1,15 @@
-# PhD thesis class for LaTeX
+# University College London PhD thesis 
 
-**by Rob Stanley** robert.stanley.10@ucl.ac.uk
+This is a template of PhD thesis that attempts to follow the [requirements of University College London](https://www.ucl.ac.uk/current-students/research_degrees/thesis_formatting).
 
-A PhD thesis class for LaTeX that attempts to follow the [UCL thesis requirements](https://www.ucl.ac.uk/current-students/research_degrees/thesis_formatting) based on the [LaTeX memoir class](https://www.ctan.org/pkg/memoir?lang=en).
+Please keep in mind that it is NOT an official template and it is not supported by UCL.
 
-**This package is not supported by UCL.**
+An example of how the class is used is given in the `example.tex` file. You may use class options `oneside` / `twoside` *(whether to format one-sided or two-sided)* and other options from [LaTeX memoir class](https://www.ctan.org/pkg/memoir?lang=en)
 
-Only compilation with XeLaTeX/LuaLaTeX is currently supported.
+==================================================
 
-## Installation and usage
+Author:      **Rob Stanley** robert.stanley.10@ucl.ac.uk
+Main file:   example.tex
+Status:      added by Papeeria Team, maintenance on demand
+Last update: 26 Nov, 2015
 
-Copy the `phdthesis.cls` file to the directory containing the thesis LaTeX file.
-No additional files are needed.
-
-An example of how the class is used is given in the `example.tex` file.
-
-## Optional class options
-* `oneside` / `twoside` *(whether to format one-sided or two-sided)*
-
-See the [LaTeX memoir class](https://www.ctan.org/pkg/memoir?lang=en) for more options.
